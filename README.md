@@ -2,6 +2,6 @@
 
 ## Contributors:
 
-- ## Louis Sungwoo Cho
-- ## Shriyan Gosavi
-- ## Christopher Whaymond 
+- ### Louis Sungwoo Cho
+- ### Shriyan Gosavi
+- ### Christopher Whaymond 
