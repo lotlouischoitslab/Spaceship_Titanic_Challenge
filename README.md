@@ -1,5 +1,4 @@
-# CS 441 Final Project:
-
+# Spaceship Titanic:
 ## Contributors:
 
 - ### Louis Sungwoo Cho
