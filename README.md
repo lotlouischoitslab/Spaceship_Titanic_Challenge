@@ -3,4 +3,3 @@
 
 - ### Louis Sungwoo Cho
 - ### Shriyan Gosavi
-- ### Christopher Whaymond 
