@@ -3,4 +3,4 @@
 
 - ### Louis Sungwoo Cho
 # Project Description:
-This was a Kaggle Challenge on Spaceship Titanic. The project report is available on pdf.
+This was a Kaggle Challenge on Spaceship Titanic. I was able to achieve **80.48%** accuracy score using Support Vector Machine Classifier. The project report is available on pdf.
