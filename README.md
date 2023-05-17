@@ -1,4 +1,4 @@
-# Spaceship Titanic Kaggle Challenge:
+# Spaceship Titanic Kaggle Challenge
 ## Contributors:
 
 - ##### Louis Sungwoo Cho (Civil & Environmental Engineering (Transportation) Major, Computer Science Minor)
