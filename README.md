@@ -3,5 +3,5 @@
 - **Louis Sungwoo Cho (Civil & Environmental Engineering (Transportation) Major, Computer Science Minor)**
 ## Acknowledgements:
 - **Professor Derek Hoiem (UIUC Department of Computer Science)**
-# Project Description:
+## Project Description:
 This was a Kaggle Challenge on Spaceship Titanic. I was able to achieve **80.48%** accuracy score using Support Vector Machine Classifier. The project report is available on pdf.
